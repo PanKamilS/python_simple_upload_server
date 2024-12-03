@@ -24,30 +24,4 @@ python_simple_http_put/
 
 ## 📜 Documentation
 
-Detailed information about configuration and usage can be found in the [`docs/`](docs/index.md) folder.
-
----
-
-# Pythonowy Serwer HTTP PUT 🔄
-
-**Python Simple HTTP PUT Server** to lekki serwer HTTP napisany w Pythonie, obsługujący przesyłanie plików metodą `PUT`.
-
-## 📂 Struktura projektu
-
-```
-python_simple_http_put/
-├── src/
-│   └── put_server.py          # Kod serwera
-├── assets/
-│   └── logo.png               # Logo projektu
-├── docs/
-│   └── index.md               # Dokumentacja projektu
-├── .gitignore                 # Ignorowanie zbędnych plików
-├── README.md                  # Opis projektu
-├── requirements.txt           # Lista zależności
-├── LICENSE                    # Plik licencji
-```
-
-## 📜 Dokumentacja
-
-Szczegółowe informacje o konfiguracji i użyciu znajdują się w katalogu [`docs/`](docs/index.md).
+Detailed information about configuration and usage can be found in the [`docs/`](docs/index.md) folder
